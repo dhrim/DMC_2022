@@ -238,8 +238,8 @@
 <br>
 
 # 교육에 사용된 외부 자료
-- bynamic robotics 1 : https://www.youtube.com/watch?v=_sBBaNYex3E
-- bynamic robotics 2 : https://www.youtube.com/watch?v=94nnAOZRg8k
+- boston robotics 1 : https://www.youtube.com/watch?v=_sBBaNYex3E
+- boston robotics 2 : https://www.youtube.com/watch?v=94nnAOZRg8k
 - cart pole : https://www.youtube.com/watch?v=XiigTGKZfks
 - bidirectional RNN : https://towardsdatascience.com/understanding-bidirectional-rnn-in-pytorch-5bd25a5dd66
 - alphago architecture : https://medium.com/applied-data-science/alphago-zero-explained-in-one-diagram-365f5abf67e0
