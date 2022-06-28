@@ -82,10 +82,13 @@
           - Bert 사용 예측
       - sequence AutoEncoder : https://velog.io/@jaehyeong/Autoencoder%EC%99%80-LSTM-Autoencoder
           
+    
 
 - 정리
     - 사용하지 않는 dnn_in_keras_xxx.ipynb 삭제
     - ~~tensorflow_tutorial_xxx.ipynb 삭제~~
     - remove legacy data_aug***.ipynb
+    - U-Net, M-Net 코드 정리
+    - AutoEncoder 코드 정리
 - 픽스
     - ~~tf-pose-estimation_with_webcam.ipynb 복원~~
