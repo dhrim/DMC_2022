@@ -10,6 +10,7 @@
     - ~~mae를 mape로 변경~~
     - 전이학습 Template. category count 자동으로.
     - word2vec을 TFhub 
+    - SequenceDataGenerator
 - 추가
     - folder split
     - ~~PCA~~
@@ -80,8 +81,7 @@
           - ~~단어열 예측~~
           - Bert 사용 분류
           - Bert 사용 예측
-      - sequence AutoEncoder : https://velog.io/@jaehyeong/Autoencoder%EC%99%80-LSTM-Autoencoder
-          
+      - sequence AutoEncoder : https://velog.io/@jaehyeong/Autoencoder%EC%99%80-LSTM-Autoencoder  
     
 
 - 정리
