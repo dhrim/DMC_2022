@@ -42,8 +42,8 @@
 - overfitting 처리 : [dnn_in_keras_overfitting.ipynb](./material/deep_learning/dnn_in_keras_overfitting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/deep_learning/dnn_in_keras_overfitting.ipynb)
 - overfitting 처리 실습 : [for_overfitting_treating.ipynb](./material/deep_learning/for_overfitting_treating.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/deep_learning/for_overfitting_treating.ipynb)
 
-<br>
 
+<br>
 
 ## 3일차
 
@@ -63,8 +63,8 @@
 
 - 영상 예측  CNN : [template_image_data_vanilla_cnn_regression.ipynb](material/deep_learning/template_image_data_vanilla_cnn_regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/deep_learning/template_image_data_vanilla_cnn_regression.ipynb)
 
-<br>
 
+<br>
 
 ## 4일차
 
@@ -76,6 +76,7 @@
         - [real_practice_glaucoma_classification.ipynb](./material/deep_learning/real_practice_glaucoma_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/deep_learning/real_practice_glaucoma_classification.ipynb)
     - 영상 예측 : [template_image_data_transfer_learning_regression.ipynb](material/deep_learning/template_image_data_transfer_learning_regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/deep_learning/template_image_data_transfer_learning_regression.ipynb)
     
+
 <br>
 
 ## 5일차
@@ -94,8 +95,8 @@
     - M-Net을 사용한 영상 분할 실습 : [mnet_segementation.ipynb](./material/deep_learning/mnet_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/deep_learning/mnet_segementation.ipynb)
     - U-Net을 사용한 컬러 영상 분할 실습 : [unet_segementation_color_image.ipynb](./material/deep_learning/unet_segementation_color_image.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/deep_learning/unet_segementation_color_image.ipynb)
 
-<br>
 
+<br>
 
 ## 6일차
 
@@ -103,8 +104,8 @@
    - 물체 탐지의 이해
    - YOLO 적용 방법 실습 : [object_detection.md](./material/deep_learning/object_detection.md)
 
-<br>
 
+<br>
 
 ## 7일차
 
@@ -119,8 +120,8 @@
 
     - RNN을 사용한 영화 평가 데이터 IMDB 분류 : [rnn_text_classification.ipynb](./material/deep_learning/rnn_text_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/deep_learning/rnn_text_classification.ipynb)
 
-<br>
 
+<br>
 
 ## 8일차
 
@@ -133,8 +134,8 @@
     - Bert를 사용한 한글 문장 간 관계 분류, 커스텀 vocab : [korean_sentence_relation_classification_with_bert_with_custom_vocab.ipynb](./material/deep_learning/korean_sentence_relation_classification_with_bert_with_custom_vocab.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/deep_learning/korean_sentence_relation_classification_with_bert_with_custom_vocab.ipynb)
     - Bert를 사용한 괄호 단어 예측 : [korean_mask_completion_with_bert.ipynb](./material/deep_learning/korean_mask_completion_with_bert.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/deep_learning/korean_mask_completion_with_bert.ipynb) 
 
-<br>
 
+<br>
 
 ## 9일차
 
@@ -154,15 +155,15 @@
 - web cam + colab 실시간 포즈 추출 : [tf_pose_estimation_with_webcam.ipynb](material/deep_learning/tf_pose_estimation_with_webcam.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/deep_learning/tf_pose_estimation_with_webcam.ipynb)
 - 영상 데이터 예측 : [cat_with_glasses.ipynb](./material/deep_learning/cat_with_glasses.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/deep_learning/cat_with_glasses.ipynb)
 
-<br>
 
+<br>
 
 # 10일차
 
 - 기타 실습
 
-<br>
 
+<br>
 
 # 기타
 
