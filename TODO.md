@@ -13,6 +13,7 @@
     - SequenceDataGenerator
 - 추가
     - folder split
+    - overfitting 처리에 Noise layer
     - ~~PCA~~
     - ~~t-SNE~~
     - ~~Tensorboard in Colab~~
