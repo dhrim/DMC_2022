@@ -101,9 +101,26 @@
 ## 6일차
 
 - 물체 탐지
-   - 물체 탐지의 이해
-   - YOLO 적용 방법 실습 : [object_detection.md](./material/deep_learning/object_detection.md)
+    - YOLO 설명 자료 : https://docs.google.com/presentation/d/1aeRvtKG21KHdD5lg6Hgyhx5rPq_ZOsGjG5rJ1HP7BbA/edit	
+    - darknet으로 물체 탐지 : [object_detection_yolo_darknet.ipynb](object_detection_yolo_darknet.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/deep_learning/object_detection_yolo_darknet.ipynb)
+    - keras로 물체 탐지 : [keras_yolov3.ipynb](keras_yolov3.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/deep_learning/keras_yolov3.ipynb)
+    - 커스텀 데이터
+        - raccoon 데이터 학습 : [train_yolov3_raccoon_train.ipynb](train_yolov3_raccoon_train.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/deep_learning/train_yolov3_raccoon_train.ipynb)
+        - raccon 데이터 탐지 실행 : [keras_yolov3_custom_model.ipynb](keras_yolov3_custom_model.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/deep_learning/keras_yolov3_custom_model.ipynb)
+        - 얼굴 탐지 : [face_recognition_with_2_models.ipynb](face_recognition_with_2_models.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/deep_learning/face_recognition_with_2_models.ipynb)
+        - 랩탑 데이터 : https://github.com/dhrim/deep_learning_data/blob/master/laptops.zip
 
+    - 레이블링 툴
+        - https://github.com/tzutalin/labelImg
+        - https://www.makesense.ai
+
+    - 레이블링 방법
+        - 레이블링 가이드 by labelImg : [yolo_labeling_guide.pdf](yolo_labeling_guide.pdf)
+        - 레이블링 가이드 by makesense : [yolo_labeling_guide_by_makesense.pdf](yolo_labeling_guide_by_makesense.pdf)
+
+    - 물체 탐지 적용 예
+        - https://drive.google.com/file/d/1ZGiJtRBG8wyI3nn8oI9iKqJC4zOitghT/view?usp=sharing
+        - https://drive.google.com/file/d/1jlKzCaKj5rGRXIhwMXtYtVnx_XLauFiL/view?usp=sharing
 
 <br>
 
