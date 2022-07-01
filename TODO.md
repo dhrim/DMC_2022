@@ -10,7 +10,7 @@
     - ~~mae를 mape로 변경~~
     - 전이학습 Template. category count 자동으로.
     - word2vec을 TFhub 
-    - SequenceDataGenerator
+    - ~~SequenceDataGenerator~~ <-- 개선 못시킴
 - 추가
     - folder split
     - ~~overfitting 처리에 Noise layer~~
