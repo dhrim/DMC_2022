@@ -297,7 +297,7 @@
 - 훌륭한 논문 리스트 : https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
 - online CNN 시각화 자료 : https://poloclub.github.io/cnn-explainer/
 - GradCAM : [grad_cam.ipynb](./material/deep_learning/grad_cam.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/deep_learning/grad_cam.ipynb)
-- AUC 그리기 :  [draw_auc_with_mnist_cnn.ipynb](./material/deep_learning/draw_auc_with_mnist_cnn.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/deep_learning/draw_auc_with_mnist_cnn.ipynb)
+- AUC 그리기 :  [roc_auc_confusion_matric.ipynb](./material/deep_learning/roc_auc_confusion_matric.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/deep_learning/roc_auc_confusion_matric.ipynb)
 - 서버 설치 기록 : [2019-10-17_setup_server.pdf](./material/env/2019-10-17_setup_server.pdf)
 - GCP에 VM 생성하고 Colab 연결 : [GCP_VM_and_Colab.pdf](./material/env/GCP_VM_and_Colab.pdf)
 - TensorFlow 홈 tutorial에서 스타일 변환 : https://www.tensorflow.org/tutorials/generative/style_transfer?hl=ko
