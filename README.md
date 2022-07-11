@@ -106,10 +106,11 @@
     - darknet으로 물체 탐지 : [object_detection_yolo_darknet.ipynb](object_detection_yolo_darknet.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/deep_learning/object_detection_yolo_darknet.ipynb)
     - keras로 물체 탐지 : [keras_yolov3.ipynb](keras_yolov3.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/deep_learning/keras_yolov3.ipynb)
     - 커스텀 데이터
-        - raccoon 데이터 학습 : [train_yolov3_raccoon_train.ipynb](train_yolov3_raccoon_train.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/deep_learning/train_yolov3_raccoon_train.ipynb)
-        - raccon 데이터 탐지 실행 : [keras_yolov3_custom_model.ipynb](keras_yolov3_custom_model.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/deep_learning/keras_yolov3_custom_model.ipynb)
-        - 얼굴 탐지 : [face_recognition_with_2_models.ipynb](face_recognition_with_2_models.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/deep_learning/face_recognition_with_2_models.ipynb)
+        - raccon 데이터 : [Raccoon.zip](./material/deep_learning/data/Raccoon.zip)
         - 랩탑 데이터 : https://github.com/dhrim/deep_learning_data/blob/master/laptops.zip
+        - raccoon 데이터 학습 : [train_yolov3_raccoon_train.ipynb](./material/deep_learning/train_yolov3_raccoon_train.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/deep_learning/train_yolov3_raccoon_train.ipynb)
+        - raccon 데이터 탐지 실행 : [keras_yolov3_custom_model.ipynb](./material/deep_learning/keras_yolov3_custom_model.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/deep_learning/keras_yolov3_custom_model.ipynb)
+        - 얼굴 탐지 : [face_recognition_with_2_models.ipynb](./material/deep_learning/face_recognition_with_2_models.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/deep_learning/face_recognition_with_2_models.ipynb)
 
     - 레이블링 툴
         - https://github.com/tzutalin/labelImg
