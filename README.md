@@ -200,7 +200,6 @@
 
 - 소리 검색
     - 소리 검색 - urban sound : [sound_search_urban_sound.ipynb](./material/deep_learning/sound_search_urban_sound.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/deep_learning/sound_search_urban_sound.ipynb)
-    - 소리 검색 - enviroment sound : [sound_search_urban_sound.ipynb](./material/deep_learning/sound_search_urban_sound.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/deep_learning/sound_search_urban_sound.ipynb)
 
 
 ## 채용 공고 리뷰
